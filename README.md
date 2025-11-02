@@ -4,7 +4,8 @@
 
 <h2>📊 Data Analytic Projects:</h2>
 
-- [Commercial Loan Data Quality Tracker](https://github.com/jmendez192022/Commercial-Loan-Data-Quality-Tracker/tree/main) - Simulated a commercial banking dataset in Snowflake, applied SQL data quality rules, and logged results for improved accuracy.
+ - ### [Commercial Loan Data Quality Tracker](https://github.com/jmendez192022/Commercial-Loan-Data-Quality-Tracker/tree/main)
+ Simulated a commercial banking dataset in Snowflake, applied SQL data quality rules, and logged results for improved accuracy.
 
 
 
