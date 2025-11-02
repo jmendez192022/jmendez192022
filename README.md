@@ -1,9 +1,11 @@
-<h1>Hi, I'm Justin! <br/><a href="https://github.com/jmendez192022">Business Driver</a>, <a href="https://www.linkedin.com/in/justin-mendez0/">Data Analyst Professional</a>
+<h1>Hi, I'm Justin! <br/>
+<a href="https://www.linkedin.com/in/justin-mendez0/">Data Analyst Professional</a>
+
 
 <h2>📊 Data Analytic Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Commercial Loan Data Quality Tracker](https://github.com/jmendez192022/Commercial-Loan-Data-Quality-Tracker/tree/main) - Simulated a commercial banking dataset in Snowflake, applied SQL data quality rules, and logged results for improved accuracy.
+
 
 
 <h2> 🤳 Connect with me:</h2>
